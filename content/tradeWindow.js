@@ -78,7 +78,7 @@ const processCards = async (offerListNode) => {
     // this gets the first one
     const robuxLine = offerListNode.querySelector(".robux-line-value")
     // Pull from config object when THAT's DONE T_T
-    let robuxAmt = Math.ceil(parseInt(robuxLine.innerText.replace(/,/g, '')) / 0.55)
+    let robuxAmt = Math.ceil(parseInt(robuxLine.innerText.replace(/,/g, '')))
     sideValue += robuxAmt
     
     const totalValText = document.createElement("span")
