@@ -1,5 +1,3 @@
-//import {userId} from '../modules/currentPlayer.js'
-
 const Rolimons = {
     _isBanned: false,
     _setBan: () => {
