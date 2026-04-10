@@ -1,4 +1,4 @@
-This extension shows rolimon values on the Roblox trade tab. Very useful for people trying to quickly decide whether a trade is worth it.
+This extension shows [https://www.rolimons.com/](Rolimons) values on the Roblox trade tab. This is very useful for people trying to quickly decide whether to accept or decline a trade.
 
 It looks like this:
 
