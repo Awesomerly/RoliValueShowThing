@@ -1,4 +1,7 @@
-importScripts("modules/utils.js", "modules/rolimons.js")
+if (typeof importScripts !== 'undefined') {
+    importScripts("modules/utils.js", "modules/rolimons.js")
+}
+
 
 async function startExtension() {
     
