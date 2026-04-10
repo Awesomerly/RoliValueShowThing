@@ -1,3 +1,7 @@
+# Yet Another Rolimons Value Calculator
+
+[![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)
+
 This extension shows [https://www.rolimons.com/](Rolimons) values on the Roblox trade tab. This is very useful for people trying to quickly decide whether to accept or decline a trade.
 
 It looks like this:
